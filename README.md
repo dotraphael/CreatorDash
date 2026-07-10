@@ -2,3 +2,5 @@
 CreatorDash is a self-hosted platform that instruments your YouTube channel beyond YouTube Studio, tracks competitors from public data, and turns it all into a title, thumbnail and ideation workspace - on a server you control.
 
 For documentation, refer to https://perezadventures.co.uk/creatordash/
+
+Docker releases, refer to https://github.com/dotraphael/CreatorDash/releases
